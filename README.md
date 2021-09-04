@@ -1,5 +1,5 @@
 ## About
-I enjoy building software and systems that are usable, performant and extensible. Currently, I work as a full-stack web developer at Deskera. Outside of work, my research interests are data visualisation and machine learning.
+I enjoy building software and systems that are usable, performant and extensible. Currently, I'm pursuing a Master of Science in Computer Science at the University of Southern California. Prior to this, I worked as a full-stack web developer at Deskera. Before Deskera, I was an undergrad at NITK Surathkal.
 
 ## GitHub Summary
 ![Archit's Profile Stats](https://github-readme-stats.vercel.app/api?username=archit-p&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
